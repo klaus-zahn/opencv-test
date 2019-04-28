@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=imageproc
+PROJECTNAME=opencv-test
 
 # Active Configuration
 DEFAULTCONF=Debug

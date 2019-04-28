@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=imageproc
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/imageproc
+CND_ARTIFACT_NAME_Debug=opencv-test
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/opencv-test
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=imageproc.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/imageproc.tar
+CND_PACKAGE_NAME_Debug=opencv-test.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/opencv-test.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=imageproc
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/imageproc
+CND_ARTIFACT_NAME_Release=opencv-test
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/opencv-test
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=imageproc.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/imageproc.tar
+CND_PACKAGE_NAME_Release=opencv-test.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/opencv-test.tar
 #
 # include compiler specific variables
 #
